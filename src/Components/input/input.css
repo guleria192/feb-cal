@@ -1,0 +1,14 @@
+.box1{
+   /* width: 200px; */
+   display: flex;
+   flex-direction: column;
+   margin: 10px;
+}
+input{
+    margin: 5px;
+    height: 30px;
+    width: 200px;
+    background-color: transparent;
+    border: 1px solid rgb(240, 238, 238);
+    color: antiquewhite;
+}
